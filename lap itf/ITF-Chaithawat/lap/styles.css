@@ -1,0 +1,19 @@
+body{
+    background-color: gray;
+    font-family: 'Roboto', sans-serif;
+}
+img{
+    border: 10px solid white;
+    float: right;
+    width: 25% ;
+}
+.content-1 {
+    display: inline block;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: white;
+    padding: 0px 10px 0px 10px;
+    border-radius: 20px;
+    font-size: large;
+    box-shadow: 12px 12px 12px red;
+}
